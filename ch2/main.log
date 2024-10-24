@@ -1,0 +1,118 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.24)  24 OCT 2024 19:38
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/study/computer/Programming Massively Parallel Processors A Hands-on Approach 4th/ch2/main.tex"
+(d:/study/computer/Programming Massively Parallel Processors A Hands-on Approach 4th/ch2/main.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+(D:\office\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(D:\office\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (D:\office\MiKTeX\tex/latex/listings\listings.sty (D:\office\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\lst@mode=\count268
+\lst@gtempboxa=\box52
+\lst@token=\toks18
+\lst@length=\count269
+\lst@currlwidth=\dimen142
+\lst@column=\count270
+\lst@pos=\count271
+\lst@lostspace=\dimen143
+\lst@width=\dimen144
+\lst@newlines=\count272
+\lst@lineno=\count273
+\lst@maxwidth=\dimen145
+ (D:\office\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (D:\office\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count274
+\lst@skipnumbers=\count275
+\lst@framebox=\box53
+) (D:\office\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (D:\office\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box54
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+\c@lstlisting=\count277
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 29.
+
+
+[1
+
+{C:/Users/a6377/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (D:\office\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+) (D:\office\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+) (D:\office\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+)
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 118.
+ (D:\office\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
+
+
+[2] (main.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2293 strings out of 473899
+ 33738 string characters out of 5739631
+ 610445 words of memory out of 5000000
+ 25215 multiletter control sequences out of 15000+600000
+ 559328 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,64p,440b,1406s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (2 pages, 99752 bytes).
+PDF statistics:
+ 44 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
