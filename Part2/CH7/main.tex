@@ -19,7 +19,7 @@ Halo + tile = reginal data, tile = output data, where halo = filter radius, so t
 
 The arithmetic-to-global memory access ratio for the tiled kernel is 
 \begin{equation*}
-    \frac{OUT_TILE_DIM^2*(2*FILTER_RADIUS+1)^2*2}{(OUT_TILE_DIM+2*FILTER_RADIUS)^2*4}.
+    \frac{OUT\_TILE\_DIM^2*(2*FILTER\_RADIUS+1)^2*2}{(OUT\_TILE\_DIM+2*FILTER\_RADIUS)^2*4}.
 \end{equation*}
 
 Pay attention on telling difference between Valid convolution(smaller), same convolution(same) and full convolution(larger)!
