@@ -15,6 +15,13 @@ With an information with the version, you have successfully installed it.
 
 ### Setup your IDE(VScode)
 
-Don't forget download extension:C/C++.
+Don't forget download extension:C/C++, vscode-cudacpp
 
 And set default compiler as cl.exe(in .../MSVC/bin/x64)(i gotta replace it).
+
+
+## Current progress
+
+The theory has completed to part2, while code hasn't.
+
+Next stage is to complete these code in part1 & 2.
