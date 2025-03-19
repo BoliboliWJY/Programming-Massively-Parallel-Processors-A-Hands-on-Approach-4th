@@ -146,14 +146,17 @@ a,50\%,b,50\%,c,50\%,d,100\%,e,100\%
 All numbers of block are $\leq$ 64 and all numbers of threads are $\leq$ 2048.
 
 \subsection{}
-a. No. The number of total thread is \(32\cdot128 = 4096\). Much higher than 2048 threads.
 
-b. Yes. All parameter is lower than setting(1024 threads and 29696 registers).
+Y,N,N
 
-c. No. The number of block and register is far higher than setting \(256\cdot32=8192\).
+a. Yes: 2048/128 = 16 blocks needed, \(2048\cdot30=61440\) registers needed,both below the limits of 32 blocks and 65536 registers.
+
+b. No: 2048/32 = 64 blocks needed, \(2048\cdot29=59392\) registers needed, blocks are over the limit.
+
+c. No: 2048/256 = 8 blocks needed, \(2048\cdot34=69632\) registers needed, registers are over the limit.
 
 \subsection{}
-It may be not enough to multiply two matrices. Since multiplying two matrices takes not only the number of its elements. With \(512\cdot8\) threads is far form necessary threads. It would be impossible.
+It may be not enough to multiply two matrices. Since multiplying two matrices takes not only the number of its elements. With \(512\cdot8\) threads is far from necessary threads. It would be impossible.
 
 \textbf{Not exactly:}
 

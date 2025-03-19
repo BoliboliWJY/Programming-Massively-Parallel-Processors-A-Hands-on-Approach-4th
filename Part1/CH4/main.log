@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.24)  27 OCT 2024 23:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.24)  19 MAR 2025 16:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/study/computer/Programming Massively Parallel Processors A Hands-on Approach 4th/CH4/main.tex"
-(d:/study/computer/Programming Massively Parallel Processors A Hands-on Approach 4th/CH4/main.tex
+**"d:/study/computer/Programming Massively Parallel Processors A Hands-on Approach 4th/Part1/CH4/main.tex"
+(d:/study/computer/Programming Massively Parallel Processors A Hands-on Approach 4th/Part1/CH4/main.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
 (D:\office\MiKTeX\tex/latex/base\article.cls
@@ -185,14 +185,14 @@ L3 programming layer <2024-09-10>
  ) 
 Here is how much of TeX's memory you used:
  2942 strings out of 473899
- 43333 string characters out of 5739631
+ 43375 string characters out of 5739631
  447395 words of memory out of 5000000
  25844 multiletter control sequences out of 15000+600000
  559693 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,627b,1238s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,633b,1238s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/office/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (3 pages, 103470 bytes).
+Output written on main.pdf (3 pages, 103530 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
