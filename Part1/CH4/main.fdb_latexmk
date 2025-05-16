@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1730042523.43722 "d:/study/computer/Programming Massively Parallel Processors A Hands-on Approach 4th/CH4/main.tex" "main.pdf" "main" 1730042524.2871 0
-  "C:/Users/a6377/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729833272 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1742372872.14683 "d:/study/computer/Programming Massively Parallel Processors A Hands-on Approach 4th/Part1/CH4/main.tex" "main.pdf" "main" 1742372872.97744 0
+  "C:/Users/a6377/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730723208 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/a6377/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1729752485 11935106 952f104c137bed298aea387218cb3641 ""
   "D:/office/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "D:/office/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -30,9 +30,9 @@
   "D:/office/MiKTeX/tex/latex/listings/lstpatch.sty" 1727541453 353 9024412f43e92cd5b21fe9ded82d0610 ""
   "D:/office/MiKTeX/tex/latex/tools/array.sty" 1718356376 14067 1383bd6ee23ab18ae0e796155404deb7 ""
   "D:/office/MiKTeX/tex/latex/ulem/ulem.sty" 1578651445 15682 94f55b803e160cf7fb6e4d77d07cfe1d ""
-  "d:/study/computer/Programming Massively Parallel Processors A Hands-on Approach 4th/CH4/main.tex" 1730042523 6634 4a012c1db39e8e7748d24bae26ef95fd ""
-  "main.aux" 1730042524 1456 c8d56078eead15c1e3ad993082e62446 "pdflatex"
-  "main.tex" 1730042523 6634 4a012c1db39e8e7748d24bae26ef95fd ""
+  "d:/study/computer/Programming Massively Parallel Processors A Hands-on Approach 4th/Part1/CH4/main.tex" 1742372869 6726 66b0dbc657870236d2b3551af78317c3 ""
+  "main.aux" 1742372872 1456 c8d56078eead15c1e3ad993082e62446 "pdflatex"
+  "main.tex" 1742372869 6726 66b0dbc657870236d2b3551af78317c3 ""
   (generated)
   "main.aux"
   "main.log"
