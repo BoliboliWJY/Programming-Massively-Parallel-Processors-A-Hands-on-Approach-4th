@@ -1,0 +1,58 @@
+# IDE and Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# CUDA编译生成的文件
+*.exe
+*.exp
+*.lib
+*.o
+*.obj
+*.out
+*.app
+*.i*86
+*.x86_64
+*.ptx
+
+# LaTeX生成的临时文件
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.dvi
+*.xdv
+*-converted-to.*
+*.ps
+*.eps
+*.tex.bak
+*.pdfsync
+*.synctex.gz
+*.fdb_latexmk
+*.snm
+*.nav
+*.vrb
+_*.data.minted
+
+# 构建目录
+build/
+bin/
+Debug/
+Release/
+x64/
+x86/
+
+# 操作系统生成的文件
+Thumbs.db
+.DS_Store
+*.tmp
+*.temp
