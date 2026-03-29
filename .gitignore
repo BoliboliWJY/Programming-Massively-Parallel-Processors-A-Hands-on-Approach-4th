@@ -1,4 +1,8 @@
-# IDE and Editor folders
+*.bin
+/Part3/CH15/data/cit-Patents.txt
+/Part3/CH15/data/email-Eu-core.txt
+
+ IDE and Editor folders
 .vscode/
 .idea/
 *.swp
